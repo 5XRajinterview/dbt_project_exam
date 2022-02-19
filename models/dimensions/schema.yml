@@ -1,9 +1,0 @@
-
-version: 2
-
-sources:
-  - name: stg
-    database: FIVETRAN_INTERVIEW_DB
-    schema: GOOGLE_SHEETS
-    tables:
-     - name: COVID_19_INDONESIA_Adhiraj_Majumdar
